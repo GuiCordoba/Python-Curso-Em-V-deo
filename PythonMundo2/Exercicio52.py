@@ -8,4 +8,4 @@ for c in range(1, n):
 if soma == 2:
     print("Numero PRIMO!!!")
 else:
-    print("O numero não pe primo!")
+    print("O numero não é primo!")
