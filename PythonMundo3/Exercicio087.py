@@ -38,9 +38,7 @@ for l in range(0, 3):
 print(f'A soma da terceira coluna é {soma_coluna}.')
 #Maior da segunda linha
 for c in range(0, 3):
-    if c == 0:
-        maior = matriz[1][c]
-    elif matriz[1][c] > maior:
+    if c == 0 or matriz[1][c] > maior:
         maior = matriz[1][c]
 print(f'O maior valor da segunda linha é {maior}.')
 print('-'* 40)
