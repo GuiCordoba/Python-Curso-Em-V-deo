@@ -5,10 +5,12 @@
 - Tratamento de dados e fazendo contas;
 - Usando módulos;
 - Adicionando cores;
+- 36 exercicios.
 ## Mundo 2
 - Condições(if...elif);
 - Repetições (for);
 - Repetições (while);
+- 34 exercicios.
 ## Mundo 3
 - Tuplas;
 - Listas;
